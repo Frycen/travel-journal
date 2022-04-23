@@ -1,0 +1,55 @@
+.header {
+    background-color: rgba(239, 75, 182, 0.847);
+    padding: 2px;
+    padding-top: 30px;
+}
+
+.earth--image {
+    width: 35px;
+}
+
+.head--text {
+    margin-bottom: 25px;
+    margin-left: 15px;
+    text-align: center;
+}
+
+.travel--card{
+    width: 50%;
+    height: 360px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.card--image{
+    order: 1;
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.card--content{
+    order: 2;
+    margin-left: 50px;
+}
+
+.bi {
+    margin-left: 10px;
+}
+
+.card--header {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+.maps--link {
+    color:rgb(169, 169, 169);
+}
+
+.card--dates {
+    font-weight: 700;
+}
